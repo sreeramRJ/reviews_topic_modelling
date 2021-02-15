@@ -1,3 +1,13 @@
 pandas
-googletrans
+google_trans_new
 TextBlob
+seaborn
+nltk
+spacy
+wordcloud
+scikit-learn
+gensim
+vaderSentiment
+plotly
+wordcloud
+pyLDAvis
